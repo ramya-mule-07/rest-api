@@ -766,3 +766,7 @@ ubuntu-jammy login: [   25.250050] cloud-init[903]: Cloud-init v. 24.3.1-0ubuntu
 [10855.597685] watchdog: BUG: soft lockup - CPU#1 stuck for 2442s! [swapper/1:0]
 [10855.602755] systemd[1]: snapd.service: Watchdog timeout (limit 5min)!
 [14463.753670] watchdog: BUG: soft lockup - CPU#1 stuck for 3224s! [swapper/1:0]
+[17123.262336] watchdog: BUG: soft lockup - CPU#1 stuck for 31s! [swapper/1:0]
+[24309.045098] watchdog: BUG: soft lockup - CPU#1 stuck for 3259s! [swapper/1:0]
+[26106.685361] watchdog: BUG: soft lockup - CPU#1 stuck for 1670s! [swapper/1:0]
+[26107.059338] systemd[1]: systemd-timesyncd.service: Watchdog timeout (limit 3min)!
