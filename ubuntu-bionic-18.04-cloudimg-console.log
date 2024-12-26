@@ -759,3 +759,6 @@ Ubuntu 22.04.5 LTS ubuntu-jammy ttyS0
 
 ubuntu-jammy login: [   24.657199] cloud-init[839]: Cloud-init v. 24.3.1-0ubuntu0~22.04.1 running 'modules:final' at Thu, 26 Dec 2024 15:24:56 +0000. Up 24.32 seconds.
 [   24.796727] cloud-init[839]: Cloud-init v. 24.3.1-0ubuntu0~22.04.1 finished at Thu, 26 Dec 2024 15:24:57 +0000. Datasource DataSourceNoCloud [seed=/dev/sdb].  Up 24.76 seconds
+[ 9215.438736] watchdog: BUG: soft lockup - CPU#1 stuck for 3596s! [swapper/1:0]
+[ 9998.155997] watchdog: BUG: soft lockup - CPU#1 stuck for 526s! [swapper/1:0]
+[ 9998.164736] systemd[1]: snapd.service: Watchdog timeout (limit 5min)!
